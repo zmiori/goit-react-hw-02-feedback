@@ -1,0 +1,12 @@
+.statisticItem{
+    list-style: none;
+    padding: 0;
+}
+
+.statistics {
+    font-size: 24px;
+}
+
+.total {
+    font-weight: 600;
+}

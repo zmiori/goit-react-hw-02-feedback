@@ -1,0 +1,14 @@
+.feedbackOptions {
+    display: flex;
+
+}
+
+.feedbackOption:not(:last-child) {
+    margin-right: 30px;
+}
+
+.feedbackOption {
+
+color: white;
+font-size: 24px;
+}
